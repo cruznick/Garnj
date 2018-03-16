@@ -61,7 +61,7 @@ const clean = {
         paths.JklAssets,
         paths.LbDir,
         paths.Js + 'build.js',
-        './_app/_includes/scripts.js',
+        // './_app/_includes/scripts.js', // uncomment this line if needed
     ],
 };
 
