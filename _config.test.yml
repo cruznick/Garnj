@@ -1,0 +1,6 @@
+
+title: Local dev
+baseurl: ""
+url: ""
+# Used to determine if Google Analytics should be tracking
+is_production: 0
