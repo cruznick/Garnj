@@ -2,9 +2,9 @@
 
 [![Travis](https://img.shields.io/travis/cruznick/Garnj.svg?style=for-the-badge)](https://travis-ci.org/cruznick/Garnj)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/cruznick/Garnj)
-[![devDependencies Status](https://david-dm.org/cruznick/Garnj/dev-status.svg?style=for-the-badge)](https://david-dm.org/cruznick/Garnj?type=dev)
-[![dependencies Status](https://david-dm.org/cruznick/Garnj/status.svg?style=for-the-badge)](https://david-dm.org/cruznick/Garnj)
-[![Join the chat at https://gitter.im/Garnj/Lobby](https://badges.gitter.im/Garnj/Lobby.svg?style=for-the-badge))](https://gitter.im/Garnj/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![David](https://img.shields.io/david/dev/expressjs/express.svg?style=for-the-badge)](https://david-dm.org/cruznick/Garnj?type=dev)
+[![David](https://img.shields.io/david/expressjs/express.svg?style=for-the-badge)](https://david-dm.org/cruznick/Garnj)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=for-the-badge)](https://gitter.im/Garnj/)
 
 This package is compatible with ***Windows,***  ***Linux*** and ***Mac Osx*** and is  meant to help you start your custom Jekyll page.
 
@@ -28,7 +28,7 @@ Provides an easy to use [Gulp.Js](http://gulpjs.com/) workflow with:
     - [Yarn](https://yarnpkg.com/lang/en/docs/install/)
     - [Ruby 2.5.0](https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/) & [Bundler](http://bundler.io) (*__Installation is Os Dependant__*)
 
-2. Then download the latest release from [here](https://github.com/cruznick/Garnj/releases)
+2. Then download the latest release from [here](/releases)
 
 3. CD into the folder:
 
@@ -74,4 +74,4 @@ The code is available under the [MIT license](LICENSE.txt).
 
 If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/BenjaminJonatan)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/BenjaminJonatan)
