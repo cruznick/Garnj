@@ -1,10 +1,10 @@
 {
-  "name": "Yarngj",
+  "name": "Garnj",
   "version": "1.0.0",
   "description": "Yarn + Jekyll + Gulp expandable workflow",
-  "main": "index.js",
+  "main": "gulpfile.babel.js",
   "repository": "https://github.com/cruznick/Yarngj",
-  "author": "Benjamin Martinez <cruznickbjm@gmail.com>",
+  "author": "Benjamin Martinez <benjaminjmtz@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -17,6 +17,7 @@
     "del": "^3.0.0",
     "eslint": "^4.18.2",
     "eslint-config-google": "^0.9.1",
+    "fancy-log": "^1.3.2",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-babel": "^7.0.1",
@@ -30,16 +31,13 @@
     "gulp-sass": "^3.1.0",
     "gulp-scss-lint": "^0.6.1",
     "gulp-sourcemaps": "^2.6.4",
-    "gulp-uglify": "^3.0.0",
-    "jquery": "^3.3.1",
-    "normalize.css": "^8.0.0",
-    "require-dir": "^1.0.0",
-    "run-sequence": "^2.2.1"
-  },
-  "dependencies": {
-    "fancy-log": "^1.3.2"
+    "gulp-uglify": "^3.0.0"
   },
   "scripts": {
     "test": "gulp Setup"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
   }
 }
