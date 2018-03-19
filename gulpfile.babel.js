@@ -1,6 +1,6 @@
 //  Imports all tasks
-import HubRegistry from 'gulp-hub';
-import {task, parallel, series, watch, registry} from 'gulp';
+
+import {task, parallel, series, watch} from 'gulp';
 import * as Cfg from './gulp/config.js';
 import * as CpJobs from './gulp/tasks/copy.js';
 import * as JsT from './gulp/tasks/javascript.js';
@@ -10,9 +10,7 @@ import * as SassT from './gulp/tasks/scss.js';
 import * as Utils from './gulp/tasks/utils.js';
 import browserSync from 'browser-sync';
 import libs from './gulp/libs.js';
-import log from 'fancy-log';
 
-const hub = new HubRegistry('./gulp/tasks/*.js');
 const Bs = browserSync.create();
 
 //  BrowserSync tasks
@@ -124,4 +122,3 @@ task('CopyLibs', CopyLibs);
 task('Prod', Prod);
 task('default', Devel);
 
-registry(hub);
