@@ -61,6 +61,6 @@ _app/_assets/libs/js/
 
 _app/_assets/js/build\.js
 
-_app/_includes/scripts\.js
+_app/_includes/scripts\_scripts.js
 
 yarn-error\.log
