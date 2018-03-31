@@ -1,6 +1,6 @@
 {
   "name": "Garnj",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Yarn + Jekyll + Gulp expandable workflow",
   "main": "gulpfile.babel.js",
   "repository": "https://github.com/cruznick/Yarngj",
