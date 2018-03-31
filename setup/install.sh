@@ -6,5 +6,5 @@ echo -e '\e[38;5;82mInstalling Ruby gems:'
 bundle install
 echo -e'\e[38;5;82mSetting gulp files:'
 gulp Setup
-echo -e '\e[38;5;82mAll done, run gulp to stat browser preview'
+echo -e '\e[38;5;82mAll done, run gulp to stat browser preview also edit package.json with your preferences.'
 
